@@ -1,0 +1,6 @@
+fastai==2.7.12
+torch==2.0.1
+torchvision==0.15.2
+numpy==1.23.5
+pillow==9.5.0
+opencv-python==4.7.0.72
